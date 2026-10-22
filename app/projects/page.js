@@ -10,7 +10,7 @@ const projectsData = [
       "AI-powered YouTube Video Chat that lets users ask questions about videos and get context-aware answers using RAG, embeddings, and Google Gemini.",
     techStack: ["Python","Next.js", "FastAPI", "PostgreSQL", "Langchain", "Gemini"],
     livePreview: "https://videogpt-frontend.vercel.app",
-    githubRepo: "https://github.com/krishnakushwaha07/videogpt-frontend.git",
+    githubRepo: "https://github.com/kushwaha-krishna/videogpt-frontend.git",
     image: "/ytchat.png",
   },
   {

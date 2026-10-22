@@ -44,7 +44,7 @@ export default function ContactPage() {
           </a>
 
           <a
-            href="https://github.com/krishnakushwaha07"
+            href="https://github.com/kushwaha-krishna"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-start gap-4 rounded-3xl border border-slate-700/80 bg-slate-950/70 px-5 py-6 transition duration-300 hover:-translate-y-1 hover:border-slate-400/40 hover:bg-slate-900/95"
